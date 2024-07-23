@@ -1,0 +1,6 @@
+#!C:\School - Master's\TUHH\Thesis\5axis nonplanar slicer\venv\Scripts\python.exe
+
+import cnc.main
+
+if __name__ == "__main__":
+    cnc.main.main()
